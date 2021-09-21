@@ -1,0 +1,1 @@
+In addition to Python, you can create TensorFlow models in JavaScript using TensorFlow.js. TensorFlow also has other language bindings, with various degrees of support, including: Swift, R, and Julia. Python and JavaScript are currently the most complete language implementations however.
