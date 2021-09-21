@@ -1,0 +1,2 @@
+## Summary
+In this lesson you learned some of the basic concepts behind Machine Learning and how Dense layers work. You trained your first machine learning model to convert Celsius to Fahrenheit. You also learned some of the key terms used in Machine Learning such as features, examples, and labels. You also learned the main lines of code that make up the skeleton of any machine learning algorithm. You saw that you only need a few lines of code to create, train, and make predictions with your neural network using TensorFlow and Keras.
