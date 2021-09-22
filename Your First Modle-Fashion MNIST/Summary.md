@@ -4,6 +4,8 @@ In this lesson we trained a neural network to classify images of articles of clo
 
 We also learned about the differences between regression and classification problems.
 
+![](image/table-v3.png)
+
 * Regression: A model that outputs a single value. For example, an estimate of a house’s value.
 * Classification: A model that outputs a probability distribution across several categories. For example, in Fashion MNIST, the output was 10 probabilities, one for each of the different types of clothing. Remember, we use Softmax as the activation function in our last Dense layer to create this probability distribution.
 
